@@ -1,0 +1,23 @@
+# Clone and Status
+
+    Clone- Cloning a repository on our local machine.
+    Command- git clone <-some link->
+
+    Status- Display the state of the code.
+    Command- git status
+    4 types of Status-
+        1. Untracked: New files that git doesn't yet tracked.
+        2. Modified: Changed.
+        3. Staged: File is ready to be committed.
+        4. Unmodified: Unchanged.
+
+# Add and commit
+    
+    Add- adds new or changed files in your directory to the git staging area.
+    Command- git add <-file name->
+
+    Commit- It is the record of change
+    Command- git commit -m "commit message"
+
+# Push Command
+    git push origin main
