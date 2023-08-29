@@ -19,5 +19,6 @@
     Commit- It is the record of change
     Command- git commit -m "commit message"
 
-# Push Command
+# Push Command- Update local repo content to remote repo
+
     git push origin main
